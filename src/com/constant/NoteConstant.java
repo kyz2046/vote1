@@ -8,7 +8,7 @@ public class NoteConstant {
 	public static final Integer OPTION_FAILED_CODE=300;
 	public static final String  OPTION_FAILED_MSG="操作失败,请联系管理员";
 	
-	public static final Integer PAGE_SIZE=2;
+	public static final Integer PAGE_SIZE=3;
 	
 
 }
